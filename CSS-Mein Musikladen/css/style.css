@@ -1,0 +1,33 @@
+body {
+text-align: center;
+list-style-position: inside;
+background-color: #FCE2DB;
+font-family: 'Uchen', serif;
+}
+
+h1 {
+    color: #7A4495;
+    font-size: 77px;
+    text-transform: uppercase;
+}
+
+/*Layout des Abschnitts, der zwischen den Seiten wechselt.*/
+.link {
+    color: #B270A2;
+    font-size: 20px;
+}
+
+h2 {
+    color: #B270A2;
+    font-size: 29px;
+}
+
+h3 {
+    color: #FF8FB1;
+    font-size: 18px;
+}
+
+/*Die Textausrichtung wird mit dieser Klasse nach links eingestellt.*/
+.left-centered {
+    text-align: left;
+}
