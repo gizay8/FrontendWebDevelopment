@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+
+/*Design of the box where the search button is located*/
+.search {
+    background-color: rgb(238, 238, 238);
+    width: 90%;
+    margin: 0 auto 0 auto;
+}
+
+/*Design of the box with Special Searches*/
+.special {
+    background-color: rgb(126, 229, 218);
+    width: 32%;
+    float: left;
+    margin-left: 5%;
+    padding: 10px;
+    margin-top: 1px;
+    margin-right: 0.1%;
+    height: 55px;
+}
+
+/*Design of the box with some links*/
+.link {
+    background-color: rgb(112, 204, 194);
+    width: 16.6%;
+    float: left;
+    font-size: 13px;
+    padding: 10px;
+    margin-top: 1px;
+    margin-right: 0.1%;
+    height: 55px;
+}
+
+/*Design of the box where the subscribe button is located*/
+.subscribe {
+    background-color: rgb(98, 179, 170);
+    width: 38.5%;
+    float: left;
+    font-size: 12px;
+    margin-top: 1px;
+    margin-right: 5%;
+    height: 75px;
+    
+}
